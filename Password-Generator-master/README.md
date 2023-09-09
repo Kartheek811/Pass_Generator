@@ -28,4 +28,4 @@ The strength check is based on the following criteria:
 - The length of the password is 8 or more (8 is often the minimum required length for a decent password).
 - The length of the password is 16 or more (16 is considered to be the minimum length for a good password).
 
-These criteria are used to calculate a score for the password, which determines the message displayed toature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
+T criteria are used to calculate a score for the password, which determines the message displayed toature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
